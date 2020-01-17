@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553210805 source:e:\sfsd\tp_sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<conio2.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+
+1091487768 c:\program files (x86)\codeblocks\conio_content\include\conio2.h
+	<conio.h>
+	<windows.h>
+

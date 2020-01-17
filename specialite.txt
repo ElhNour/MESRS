@@ -1,0 +1,19 @@
+Informatique Medecine 
+Electronique  
+Pharmacie
+Architecture
+Analyse 
+Physique  
+Mecanique 
+Chimie 
+Francais 
+Anglais 
+Biologie 
+SciencesIslamiques
+Hydraulique
+SciencesPolitiques
+Biotechnologie
+ScienceDeGestion
+SciencesEconomiques
+Optique
+Algebre

@@ -1,0 +1,8 @@
+100 EcoleNormaleSuperieureD'EnseignementTechnologiqueDeSkikda est
+101 EcoleNormaleSuperieureDeSetif-MessaoudZeghar- est
+102 EcoleNormaleSuperieureDeBouSaeda est
+103 EcoleNormaleSuperieureDeOuargla est
+104 EcoleNormaleSuperieureDeMostaganem ouest
+105 EcoleNormaleSuperieureD'Oran ouest
+106 EcoleNormaleSuperieureDeBechar ouest
+107 EcolePreparatoireEnsciencesEconomiqueCommercialesEtSciencesDeGestionKolea centre
